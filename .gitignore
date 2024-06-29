@@ -1,0 +1,5 @@
+py_project_pro/logs
+
+
+*.pyc
+__pycache__/

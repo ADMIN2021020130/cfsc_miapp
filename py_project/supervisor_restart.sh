@@ -1,1 +1,0 @@
-sudo supervisorctl restart mini_app
